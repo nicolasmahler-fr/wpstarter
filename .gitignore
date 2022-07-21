@@ -27,5 +27,6 @@ web/.htaccess
 wp-cli.local.yml
 
 # Custom
+Makefile
 admin.md
 

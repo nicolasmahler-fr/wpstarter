@@ -29,4 +29,5 @@ wp-cli.local.yml
 # Custom
 Makefile
 admin.md
+_wiki/private/*
 

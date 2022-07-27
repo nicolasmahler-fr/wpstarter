@@ -1,0 +1,5 @@
+<?php 
+    /**
+     * Header du site 
+     */
+?>

@@ -1,3 +1,4 @@
+TODO : https://capitainewp.io/formations/developper-theme-wordpress/hooks-functions
 # WpStarterTheme
 
 **Thème de démarrage d'un projet WordPress.**
@@ -20,7 +21,7 @@
 
 ### Backend
 
-- Configuration du fichier **functions.php** (_TODO_)
+- [Configuration du fichier **functions.php**](_wiki/backend/functions.md)
 - [Templating](_wiki/backend/templating.md)
   - Gabarits de page (_TODO_)
   - Loops / CPT (_TODO_)
